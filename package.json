@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "stephen ma",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenma064/easy-fantasy-draft.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stephenma064/easy-fantasy-draft/issues"
+  },
+  "homepage": "https://github.com/stephenma064/easy-fantasy-draft#readme"
 }
