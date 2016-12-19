@@ -1,0 +1,8 @@
+html
+    head
+    body
+        h1= message
+        form(method='POST' action='/')
+            label(for='name') Name:
+            input#name.form-control(type='text', name='name')
+            input#submit.form-conrol(type='submit', name='submit')
